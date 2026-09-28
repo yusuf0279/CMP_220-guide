@@ -18,5 +18,3 @@
 18_important_operator_meanings.md
 19_high_value_syntax_patterns_to_memorize.md
 20_fast_memory_rules.md
-CMP220_CPP_Syntax_Cheat_Sheet.md
-CMP220_CPP_Syntax_Topics.zip
